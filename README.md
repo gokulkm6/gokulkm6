@@ -59,7 +59,7 @@ TensorFlow-based system that identifies handwritten characters accurately
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-km-602056253/)  
-[![Email](https://img.shields.io/badge/Email-gokulkm025@gmail.com-red?logo=gmail&logoColor=white)](mailto:gokulkm025@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:gokulkm025@gmail.com)
 
 ---
 
