@@ -1,6 +1,10 @@
- #                                                                  👋 Hi there! I'm Gokul K M
+<div align="center">
+
+# 👋 Hi there! I'm Gokul K M
 
 🤖 Machine Learning Enthusiast | 🐧 Linux & DevOps Advocate | 🌐 Open-source Contributor  
+
+</div>
 
 ---
 
