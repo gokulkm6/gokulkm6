@@ -42,6 +42,16 @@ TensorFlow-based system that identifies handwritten characters accurately
 
 ---
 
+## ⚡ Currently Into
+
+🐍 Mastering Python for ML & automation
+🐧 Deep diving into Linux server management & DevOps workflows
+☁️ Exploring cloud VPS setups and container orchestration (Docker, Kubernetes)
+🧩 Sharpening problem-solving skills with Java and DSA challenges
+🤝 Networking with developers and tech communities to grow and collaborate
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
