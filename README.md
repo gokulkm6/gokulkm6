@@ -44,27 +44,88 @@ TensorFlow-based system that identifies handwritten characters accurately
 
 ## ⚡ Currently Into
 
-**🐍 Mastering Python for ML & automation**  
+🐍 Mastering Python for ML & automation
 
-**🐧 Deep diving into Linux server management & DevOps workflows**
+🐧 Deep diving into Linux server management & DevOps workflows
 
-**☁️ Exploring cloud VPS setups and container orchestration**
+☁️ Exploring cloud VPS setups and container orchestration
 
-**🧩 Sharpening problem-solving skills with Java and DSA challenges**
+🧩 Sharpening problem-solving skills with Java and DSA challenges
 
 **🤝 Networking with developers and tech communities to grow and collaborate**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![VPS Hosting](https://img.shields.io/badge/-VPS%20Hosting-007ACC?logo=azure&logoColor=white)
+<div align="center">
+
+<a href="https://www.python.org" target="_blank" style="margin:10px;">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" />
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank" style="margin:10px;">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" />
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank" style="margin:10px;">
+  <img height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" />
+</a>
+
+<br />
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin:10px;">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" />
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" style="margin:10px;">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" />
+</a>
+
+<a href="https://nodejs.org/" target="_blank" style="margin:10px;">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" />
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank" style="margin:10px;">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" />
+</a>
+
+<a href="https://expressjs.com/" target="_blank" style="margin:10px;">
+  <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" alt="express" />
+</a>
+
+<br />
+
+<a href="https://www.docker.com/" target="_blank" style="margin:10px;">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" />
+</a>
+
+<a href="https://kubernetes.io/" target="_blank" style="margin:10px;">
+  <img height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" />
+</a>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank" style="margin:10px;">
+  <img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" />
+</a>
+
+<a href="https://www.linux.org/" target="_blank" style="margin:10px;">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" />
+</a>
+
+<br />
+
+<a href="https://git-scm.com/" target="_blank" style="margin:10px;">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" />
+</a>
+
+</div>
+
+<br />
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="coding animation" />
+</p>
+
 
 ---
 
