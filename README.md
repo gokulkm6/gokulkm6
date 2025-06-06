@@ -60,67 +60,72 @@ TensorFlow-based system that identifies handwritten characters accurately
 
 <div align="center">
 
-<a href="https://www.python.org" target="_blank" style="margin:10px;">
+<a href="https://www.python.org" target="_blank" style="margin: 0 20px 20px 20px;">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" />
 </a>
 
-<a href="https://scikit-learn.org/" target="_blank" style="margin:10px;">
+<a href="https://scikit-learn.org/" target="_blank" style="margin: 0 20px 20px 20px;">
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" />
 </a>
 
-<a href="https://www.tensorflow.org/" target="_blank" style="margin:10px;">
+<a href="https://www.tensorflow.org/" target="_blank" style="margin: 0 20px 20px 20px;">
   <img height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" />
 </a>
 
 <br />
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin:10px;">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin: 0 20px 20px 20px;">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" />
 </a>
 
-<a href="https://www.mongodb.com/" target="_blank" style="margin:10px;">
+<a href="https://www.mongodb.com/" target="_blank" style="margin: 0 20px 20px 20px;">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" />
 </a>
 
-<a href="https://nodejs.org/" target="_blank" style="margin:10px;">
+<a href="https://nodejs.org/" target="_blank" style="margin: 0 20px 20px 20px;">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" />
 </a>
 
-<a href="https://www.typescriptlang.org/" target="_blank" style="margin:10px;">
+<a href="https://www.typescriptlang.org/" target="_blank" style="margin: 0 20px 20px 20px;">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" />
 </a>
 
-<a href="https://expressjs.com/" target="_blank" style="margin:10px;">
+<a href="https://expressjs.com/" target="_blank" style="margin: 0 20px 20px 20px;">
   <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" alt="express" />
 </a>
 
-<br />
+<br /><br />
 
-<a href="https://www.docker.com/" target="_blank" style="margin:10px;">
+<a href="https://www.docker.com/" target="_blank" style="margin: 0 20px 20px 20px;">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" />
 </a>
 
-<a href="https://kubernetes.io/" target="_blank" style="margin:10px;">
+<a href="https://kubernetes.io/" target="_blank" style="margin: 0 20px 20px 20px;">
   <img height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" />
 </a>
 
-<a href="https://www.gnu.org/software/bash/" target="_blank" style="margin:10px;">
+<a href="https://www.gnu.org/software/bash/" target="_blank" style="margin: 0 20px 20px 20px;">
   <img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" />
 </a>
 
-<a href="https://www.linux.org/" target="_blank" style="margin:10px;">
+<a href="https://www.linux.org/" target="_blank" style="margin: 0 20px 20px 20px;">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" />
 </a>
 
-<br />
+<br /><br />
 
-<a href="https://git-scm.com/" target="_blank" style="margin:10px;">
+<a href="https://git-scm.com/" target="_blank" style="margin: 0 20px 20px 20px;">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" />
 </a>
 
 </div>
 
 <br />
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="coding animation" />
+</p>
+
 
 ---
 
