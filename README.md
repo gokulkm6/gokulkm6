@@ -1,9 +1,6 @@
 # 👋 Hi there! I'm Gokul K M
 
-🎓 Final-year Computer Science (AIML) Student  
 🤖 Machine Learning Enthusiast | 🐧 Linux & DevOps Advocate | 🌐 Open-source Contributor  
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=gokulkm6&style=flat&color=blue)
 
 ---
 
@@ -53,19 +50,6 @@ TensorFlow-based system that identifies handwritten characters accurately
 
 ---
 
-## 📈 GitHub Stats
-
-![Gokul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokulkm6&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulkm6&layout=compact&theme=github_dark)
-
----
-
-## 🏆 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=gokulkm6&theme=gruvbox&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 📊 Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gokulkm6&theme=dark&hide_border=false)](https://git.io/streak-stats)
@@ -75,7 +59,7 @@ TensorFlow-based system that identifies handwritten characters accurately
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/gokul-km-602056253/)
-- 📧 Email: [gokulkm025@gmail.com](mailto:gokulkm025@gmail.com)
+- 📧 Email (mailto:gokulkm025@gmail.com)
 
 ---
 
