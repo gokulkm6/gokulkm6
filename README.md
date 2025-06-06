@@ -44,10 +44,14 @@ TensorFlow-based system that identifies handwritten characters accurately
 
 ## ⚡ Currently Into
 
-**🐍 Mastering Python for ML & automation**
+**🐍 Mastering Python for ML & automation**  
+
 **🐧 Deep diving into Linux server management & DevOps workflows**
+
 **☁️ Exploring cloud VPS setups and container orchestration**
+
 **🧩 Sharpening problem-solving skills with Java and DSA challenges**
+
 **🤝 Networking with developers and tech communities to grow and collaborate**
 
 ---
