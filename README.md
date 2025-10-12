@@ -125,11 +125,6 @@ TensorFlow-based system that identifies handwritten characters accurately
 
 ---
 
-## 📊 Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=gokulkm6&theme=dark&hide_border=false)](https://git.io/streak-stats)
-
----
 
 ## 📫 Let's Connect
 
