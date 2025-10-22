@@ -1,24 +1,24 @@
 <div align="center">
 
-# 👋 Hi there! I'm Gokul K M
+# Helloo ! I'm Gokul K M
 
-🤖 Machine Learning Enthusiast | 🐧 Linux & DevOps Advocate | 🌐 Open-source Contributor  
+Machine Learning Enthusiast | Linux & DevOps Advocate | Open-source Contributor  
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-🔍 Passionate about Machine Learning, Deep Learning, and NLP  
-🧠 Constant learner who enjoys solving real-world problems with tech  
-🛠️ Skilled in deploying intelligent systems with clean backend logic  
-🐧 Linux power user with hands-on experience in VPS, Docker, and Git  
-🌱 Actively contributing to open-source and community-driven projects
+- Passionate about Machine Learning, Deep Learning, and NLP  
+- Constant learner who enjoys solving real-world problems with tech  
+- Skilled in deploying intelligent systems with clean backend logic  
+- Linux power user with hands-on experience in VPS, Docker, and Git  
+- Actively contributing to open-source and community-driven projects
 
 ---
 
-## 🧩 Projects I'm Proud Of
+## Projects I'm Proud Of
 
 **Hepatitis Detection**  
 Predictive modeling for hepatitis disease using various ML techniques  
@@ -42,17 +42,17 @@ TensorFlow-based system that identifies handwritten characters accurately
 
 ---
 
-## ⚡ Currently Into
+##  Currently Into
 
-🐍 Mastering Python for ML & automation
+- Mastering Python for ML & automation
 
-🐧 Deep diving into Linux server management & DevOps workflows
+- Deep diving into Linux server management & DevOps workflows
 
-☁️ Exploring cloud VPS setups and container orchestration
+- Exploring cloud VPS setups and container orchestration
 
-🧩 Sharpening problem-solving skills with Java and DSA challenges
+- Sharpening problem-solving skills with Java and DSA challenges
 
-🤝 Networking with developers and tech communities to grow and collaborate
+- Networking with developers and tech communities to grow and collaborate
 
 ---
 
@@ -60,67 +60,54 @@ TensorFlow-based system that identifies handwritten characters accurately
 
 <div align="center">
 
-<a href="https://www.python.org" target="_blank" style="margin: 0 20px 20px 20px;">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" />
-</a>
+### Machine Learning & Backend
+<p>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" alt="Express" width="50" height="50"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  </a>
+</p>
 
-<a href="https://scikit-learn.org/" target="_blank" style="margin: 0 20px 20px 20px;">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" />
-</a>
-
-<a href="https://www.tensorflow.org/" target="_blank" style="margin: 0 20px 20px 20px;">
-  <img height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" />
-</a>
-
-<br />
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin: 0 20px 20px 20px;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" />
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank" style="margin: 0 20px 20px 20px;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" />
-</a>
-
-<a href="https://nodejs.org/" target="_blank" style="margin: 0 20px 20px 20px;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" />
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank" style="margin: 0 20px 20px 20px;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" />
-</a>
-
-<a href="https://expressjs.com/" target="_blank" style="margin: 0 20px 20px 20px;">
-  <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" alt="express" />
-</a>
-
-<br /><br />
-
-<a href="https://www.docker.com/" target="_blank" style="margin: 0 20px 20px 20px;">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" />
-</a>
-
-<a href="https://kubernetes.io/" target="_blank" style="margin: 0 20px 20px 20px;">
-  <img height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" />
-</a>
-
-<a href="https://www.gnu.org/software/bash/" target="_blank" style="margin: 0 20px 20px 20px;">
-  <img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" />
-</a>
-
-<a href="https://www.linux.org/" target="_blank" style="margin: 0 20px 20px 20px;">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" />
-</a>
-
-<br /><br />
-
-<a href="https://git-scm.com/" target="_blank" style="margin: 0 20px 20px 20px;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" />
-</a>
+### DevOps & Tools
+<p>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="50" height="50"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  </a>
+</p>
 
 </div>
-
-<br />
 
 
 ---
